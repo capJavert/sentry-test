@@ -4,10 +4,10 @@
 
 To run test:
 
-`npm run test -d YOUR_SENTRY_DSN`
+`node index.js -d YOUR_SENTRY_DSN`
 
 or
 
-`node index.js -d YOUR_SENTRY_DSN`
+`npm run test -- -d YOUR_SENTRY_DSN`
 
 Don't know what DSN is? [Check here](https://docs.sentry.io/error-reporting/quickstart/?platform=javascript)
