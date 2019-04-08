@@ -2,6 +2,14 @@
 
 ## Simple script to test sentry installation
 
+### Usage
+
+Install:
+
+`git clone https://github.com/capJavert/sentry-test`
+
+`npm install`
+
 To run test:
 
 `node index.js -d YOUR_SENTRY_DSN`
